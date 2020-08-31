@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hola!! 👋
+
+I'm a full stack developer in love with React. Most recently I've been enjoying playing with Typescript and levelling up my testing game with Jest, Cypress & RTL.
+
+🎈 currently working on this <a href="https://github.com/hucki/grouptripper">project</a>, and we have a demo <a href="https://www.youtube.com/watch?v=22KtdN9gaAA">video</a> if you wanna check it out ✌️
+
+<a href="https://www.linkedin.com/in/mohmedak/">👉 LinkedIn👈</a>
+
 
 <!--
 **MohammedAK1991/MohammedAK1991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
