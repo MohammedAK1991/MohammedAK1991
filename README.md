@@ -1,15 +1,15 @@
-### Hola!! 👋
+### Hola!! 🤘🏻🤘🏻🤘🏻
 
 I'm a Full Stack Developer in love with React. Most recently I've been enjoying playing with Typescript and levelling up my testing game with Jest, Cypress & RTL.
 My tech stack includes (but is not limited to) React, Redux, React Query, Express, Koa, MongoDB, Node.js, TypeScript, Angular.
 
 Currently working on 
--  <a href="https://github.com/hucki/grouptripper">GroupTripper </a>. <a href="https://www.youtube.com/watch?v=22KtdN9gaAA">👉 DEMO VIDEO 👈</a> 
--  <a href="https://github.com/MohammedAK1991/THE-PARTY-FORECAST-APP">PartyForecast </a>. <a href="https://peaceful-atoll-09560.herokuapp.com/">👉 CHECKOUT APP 👈</a> 
+-  <a href="https://github.com/hucki/grouptripper">GroupTripper </a>  <a href="https://www.youtube.com/watch?v=22KtdN9gaAA">🤘🏻 DEMO VIDEO 🤘</a> 
+-  <a href="https://github.com/MohammedAK1991/THE-PARTY-FORECAST-APP">PartyForecast </a>  <a href="https://peaceful-atoll-09560.herokuapp.com/">🤘 CHECKOUT APP 🤘</a> 
 
 <a href="https://www.linkedin.com/in/mohmedak/">👉 LinkedIn 👈</a>
 
-<a href="https://mohammedak1991.github.io/mohammedak.github.io/">👉 My Portfolio Website👈</a>
+<a href="https://mohammedak1991.github.io/mohammedak.github.io/">🤘 My Portfolio Website 🤘</a>
 
 
 <!--
