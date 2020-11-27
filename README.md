@@ -1,6 +1,6 @@
 ### Hola!! 🤘🏻🤘🏻🤘🏻
 
-I'm a Full Stack Developer in love with React. Most recently I've been enjoying playing with Typescript and levelling up my testing game with Jest, Cypress & RTL.
+I'm a Full Stack Developer currently working for www.joinqoala.com . Most recently I've been enjoying playing with Typescript and levelling up my testing game with Jest, Cypress & RTL.
 My tech stack includes (but is not limited to) React, Redux, React Query, Express, Koa, MongoDB, Node.js, TypeScript, Angular.
 
 Currently working on 
