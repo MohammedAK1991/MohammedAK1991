@@ -1,8 +1,8 @@
 ### Hola Amigos!! 🤘🏻
 
-I'm a Full Stack Developer currently working for www.joinqoala.com . 
-Most recently I've been enjoying playing with Typescript and levelling up my testing game with Jest, Cypress & RTL.
-My tech stack includes (but is not limited to) React, Redux, React Query, Express, Koa, MongoDB, Node.js, TypeScript, Angular, Firebase.
+I'm a Full Stack Developer currently working for www.touchstream.media . 
+Most recently I've been enjoying playing with Nestjs, the new version of Nextjs and all things related to the new react server components.
+My tech stack includes (but is not limited to) React, Redux, React Query, Express, Koa, MongoDB, Node.js, TypeScript, Angular, Firebase, Nestjs, typeORM, Django, Python.
 
 Right now im working on an app to help local street artists and musicians get the respect they deserve. I'll be releasing that soon.
 
