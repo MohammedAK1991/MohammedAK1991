@@ -9,6 +9,7 @@ Right now im working on an app to help local street artists and musicians get th
 My side projects ↓↓↓
 -  <a href="https://github.com/hucki/grouptripper">GroupTripper </a>  <a href="https://www.youtube.com/watch?v=22KtdN9gaAA">🤘🏻 DEMO VIDEO 🤘🏻</a> 
 -  <a href="https://github.com/MohammedAK1991/THE-PARTY-FORECAST-APP">PartyForecast </a>  <a href="https://peaceful-atoll-09560.herokuapp.com/">🤘🏻 CHECKOUT APP 🤘🏻</a> 
+-  <a href="https://github.com/MohammedAK1991/ninja-api">Ninja API </a>  <a href="[[https://peaceful-atoll-09560.herokuapp.com/](https://github.com/MohammedAK1991/ninja-api)](https://github.com/MohammedAK1991/ninja-api)">🤘🏻 CHECKOUT THE APIs</a> 
 
 <a href="https://www.linkedin.com/in/mohmedak/">🤘🏻 LinkedIn 🤘🏻</a>
 
