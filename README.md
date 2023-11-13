@@ -14,7 +14,7 @@ My side projects ↓↓↓
 
 <a href="https://www.linkedin.com/in/mohmedak/">🤘🏻 LinkedIn 🤘🏻</a>
 
-<a href="https://mohammedak1991.github.io/mohammedak.github.io/"> 🤘🏻 My Portfolio Website 🤘🏻</a>
+<a href="https://nextjs-portfolio-1plkleip0-mohammedak.vercel.app/"> 🤘🏻 My Portfolio Website 🤘🏻</a>
 
 
 <!--
